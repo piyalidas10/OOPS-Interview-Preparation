@@ -5,3 +5,18 @@
 | 2   |  Inheritance implementaion in JavaScipt & TypeScript? <br><br> 1. In JavaScript, inheritance is achieved by using the prototype property and the Object.create() method. <br> 2. TypeScript supports single inheritance, where a class can inherit from a single base class. TypeScript supports multiple inheritance using Interfaces. <br/> https://medium.com/@piyalidas.it/inheritance-practical-uses-0c95884e880d
 | 3   |  Polymorphism implementaion in JavaScipt & TypeScript? <br><br> 1. In JavaScript, polymorphism is achieved by using function overloading and function overriding. <br> 2. TypeScript supports polymorphism through inheritance and interfaces. <br> 3. Generics in TypeScript are a way to implement parametric polymorphism. <br> https://medium.com/@piyalidas.it/polymorphism-practical-uses-2ed5d029589a
 | 4   |  Abstraction implementaion in JavaScipt & TypeScript? <br><br> 1. In TypeScript, abstraction is achieved through classes and interfaces. <br/> 2. In JavaScript, the concept of an abstract class is not natively supported as it is in other languages such as Java, TypeScript, and Python.  <br/> https://medium.com/@piyalidas.it/abstraction-practical-uses-febbe3c65bb6
+
+### 1. Constructor Design Pattern
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+```
+
+```
+ 
+</p>
+</details>
+
+---
